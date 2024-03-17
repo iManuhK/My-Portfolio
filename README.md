@@ -43,6 +43,7 @@ Or you can access the web application directly via this [https://wondrous-lebkuc
 - Google fonts
 - Font awesome Icons
 - Particles JS
+- tealhq
 *****
 ## Technologies Used
 1. HTML
