@@ -8,7 +8,7 @@ This is me.I share about my skills, educational background, hobbies and my favou
 ******
 
 ## SCREENSHOTS
-- <img width="1437" alt="image" src="https://github.com/iManuhK/My-Portfolio/assets/161714108/58aa2a4c-5cae-4c8c-a2cb-81fe765c580a">
+- <img width="1436" alt="image" src="https://github.com/iManuhK/My-Portfolio/assets/161714108/460b69ed-98be-4ca5-ba73-67ce43942a60">
 
 ********
 ## SetUp Instruction
