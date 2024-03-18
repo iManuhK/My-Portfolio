@@ -35,7 +35,7 @@ This is me.I share about my skills, educational background, hobbies and my favou
 > Run using live server
 *****
 ## Live Link
-Or you can access the web application directly via this [https://wondrous-lebkuchen-e0d517.netlify.app/](https://wondrous-lebkuchen-e0d517.netlify.app/)
+Or you can access the web application directly via this [https://emmanuel-rotich-portfolio.netlify.app/](https://emmanuel-rotich-portfolio.netlify.app/)
 *****
 ## Dependencies
 - Google fonts
